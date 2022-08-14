@@ -5,5 +5,5 @@ function sum(a){
     }
     return total
 }
-console.log(sum(7))
+console.log(sum(42))
  module.exports=sum
